@@ -10,5 +10,3 @@
 - **Swift & Xcode** – The backbone of the app, ensuring smooth performance.  
 - **Gesture Recognition** – To allow intuitive touch-based interactions with the blocks.  
 
-![AR Tower in Action](./images/ar_tower.png)  
-![Gameplay Preview](./images/gameplay_preview.png)  
